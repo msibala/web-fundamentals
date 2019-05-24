@@ -18,4 +18,7 @@ if (name) {
 else if (x) {
 	console.log("***This should not print");
 }
+else {
+	console.log("Not True or False")
+}
 
