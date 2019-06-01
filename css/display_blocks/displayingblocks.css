@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+	padding: 10px;
+}
+
+#wrapper{
+	background-color: #D5D2AE;
+	margin: 0px auto;
+	width: 950px;
+}
+
+.header{
+	text-align: center;
+}
+
+.header-center{
+	height: 100px;
+}
+
+img {	
+	background-color: #82B4EE;
+	border: 5px solid black;
+	margin-color: green;
+	padding: 20px;
+	width: 125px;
+}
+
+.top-two {
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+.top-two img {
+	background-color: white;
+	border: none;
+	width: 75px;
+}
+
+.image-container {
+	text-align: center;
+}
+
+.odd {
+	background-color: #F36870;
+
+}
+
+
+
+
+
