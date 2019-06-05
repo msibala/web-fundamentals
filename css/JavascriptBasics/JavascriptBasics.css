@@ -2,77 +2,115 @@
 	box-sizing: border-box;
 	margin: 0px;
 	padding: 0px;
+ 
 }
 
-#wrapper{
+#wrapper	{
 	background-color: #1C335D;
 	margin: 0px auto;
 	padding: 15px;
-	text-align: center;
 	vertical-align:top;
 	width: 970px;
+	text-decoration-color: #CC3235;
+
 }
 
-#header{
+#header {
 	align-content: center;
+	align-items: center;
+	background-color: #CF2F36;
+	border-radius: 10px;
 	display: flex;
 	height: 80px;
-	background-color: #CF2F36;
-	margin: 20px auto;
-	width: 900px;
-	padding: 10px;
 	justify-content: flex-start;
-	align-items: center;
+	margin: 20px auto;
+	padding: 10px;
+	text-align: left;
 	text-decoration-color: #C2D6EC;
-	border-radius: 10px;
+	width: 900px;
 
-}	
-#navigation{
-	min-height: 250px;
-	width: 200px;
-	margin-right: 10px;
-	background-color: #2A7D8C;
-	display: inline-block;
-	border-radius: 10px;
 }
-p{
-	color: silver;
+
+#navigation{
+	background-color: #2A7D8C;
+	border-radius: 10px;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 10px;
+	height: 250px;
+	width: 200px;
+}
+
+.list {
+	margin-left: 25px;
+}
+
+.sub-list {
+	margin-left: 15px;
+}
+
+.inside-nav {
+	margin: auto;
+	border: 1px solid red;
+	width: 80%;
+	text-align: center;
+
+}
+
+
+
+p {
+	color: #3CA1B3;
 
 }
 
 #main_content{
-	display: inline-block;
-	min-height: 660px;
-	width: 710px;
 	background-color: black;
-	vertical-align: top;
 	border-radius: 10px;
+	font-size: 12pt;
+	display: inline-block;
+	min-height: 540px;
 	padding-left: 5px;
+	list-style-position: inside;
+	vertical-align: top;
+	width: 710px;
 }
 
 .info{
-	color: silver;
+	color: silver
+}
+
+p span {
+	color: purple;
+}
+
+.subcategory{
+	text-decoration: pink ;
+
 }
 
 p{
 	color: silver;
 	text-align: justify;
 }
+
 a {
-	color: #5F7B84;
+	color: white; 
 }
+
+/*5F7B84*/
 #highlightedtext{
 	color: purple;
 }
 
 #advertisement{
+	background-color: #FAFAFA;
+	border-radius: 10px;
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
 	height: 50px;
 	width: 900px;
-	background-color: #FAFAFA;
-	display: inline-block;
-	border-radius: 10px;
-	margin: 10px 0;
-	padding: 10px;
 }
 #advertisement p{
 	color: #9AA9BE;
