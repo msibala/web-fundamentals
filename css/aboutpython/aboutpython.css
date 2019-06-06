@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper: {
+	background-color: #FFFFFF;
+	border-color: green ;
+	width: 970px;
+	height: 100px;
+
+}
+
+.about {
+	border-color: black ;
+}
+.docs {
+	border-color: red;
+}

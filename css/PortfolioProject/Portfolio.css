@@ -1,78 +1,115 @@
 *{
-	box-sizing:
 	margin: 20px;
-	padding: 20px;
+	padding: 10px;
 }
 
 #wrapper{
-
-	width: 1100px;
-	min-height: 200px;
 	background-color: #F9F9F9;
-	margin: 5px auto;
 	display: inline-block;
-	padding: 10px;
-	vertical-align: top;
+	margin: 0px auto;
+	min-height: 200px;
+	padding: 20px 5px 20px 5px;
+	width: 1200px;
 }
-#jd { 
-	width: 1000px; 
+
+#jd {
+	height: 80px;
 }
 
 .Jayne {
-	width: 200px;
-	min-height: 200px;
+
+	display: inline-block;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	min-height: 10px;
+	width: 500px;
+	
 }
 .mastershadow {
-	width: 300px;
-	min-height: 300px;
+	
+	border: red;
+	display: inline-flex;
+	min-height: 1s0px;
+	font-family: "Arial", "helvetica", sans-serif ;
+	width: 500px;
 }
 
-#background{ 
-	width: 1000px;
-	min-height: 2000px;
-	background-color: #604B55;
-	margin: 50px;
 
+#background{ 
+	
+	background-color: #604B55;
+	margin: 5px 5px 5px 5px;
+	min-height: 1100px;
+	width: 1100px;
+
+}
 
 .div1 {
-	/*position: relative;*/
-	border: 1px solid red;
+	position: relative;
+	background-color:#C0C0C0;
 	display: inline-block;
-	margin: 0 auto;
-	background-color:#E6DDE6;
 	height: 300px;
-	width: 300px;
+	margin: 0 auto;
+	width: 400px;
+	text-align: left;
 	
 }
 
-.div2 {
+.topbox {
 
-	width: 500px;
-	height: 300px;
-	margin: 10px;
+	border-color: black;
+	border-style: solid;
+	width: 200px;
+	height: 30px;
+}
+
+.div12 {
+
 	background-color:#E4D9E3;
+	height: 400px;
+	margin: 10px 20px 10px 5px;
+	display: inline-block;
+	width: 500px;
+}
+
+.greybox1 {
+	background-color: #8A8895;
+	min-height: 10px;
+	margin-top: 5px;
+	width: 400px;
 	display: inline-block;
 
 }
 
-.div13 {
-	width: 200px;
-	height: 376px;
-	margin: 0 15px;
-	background-color:#E4D9E3;
+.div12 p {
+	font-family: "Arial", "helvetica", sans-serif ;
 
 }
 
+}
+.greybox h3 {
+	text-decoration-color: white;
+}
+
 .div13 {
-	border: 2px solid blue;
+	width: 300px;
+	height: 500px;
+	margin: 10px;
 	background-color:#E4D9E3;
+	/*border: 2px solid blue;*/
+}
+
+.div14 {
+	width: 300px;
+	height: 376px;
+	margin: 10px;
+	background-color:#E4D9E3;
+	
 }
 
 .div15 {
-	border: 1px solid orange;
+	width: 300px;
+	height: 376px;
+	margin: 0 15px;
 	background-color:#E4D9E3;
+		
 }
-
-
-
-	

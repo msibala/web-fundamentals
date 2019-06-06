@@ -1,0 +1,13 @@
+*{
+	margin: 20px;
+	padding: 10px;
+}
+
+#wrapper{
+	background-color: #F9F9F9;
+	display: inline-block;
+	margin: 0px auto;
+	min-height: 200px;
+	padding: 20px 5px 20px 5px;
+	width: 1200px;
+}

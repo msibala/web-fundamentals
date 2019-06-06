@@ -1,0 +1,67 @@
+*{
+	margin: 
+	padding ;
+}
+#wrapper {
+	background-color: #DDDFD3 ;
+	width: 970px;
+	min-height: 1000px;
+	margin-left: 100px;
+	padding: 20px;
+	padding-right: 20px;
+	border-style: solid;
+	border-color: red;
+}
+
+.gitbasics {
+	background-color: #38B0AD ;
+	/*display: inline;*/
+	width: 962px;
+	height: 75px;
+	border-style: solid;
+	border-style: red;
+}
+.gb {
+	float: right;
+	position: relative;
+	text-decoration-color: #F6FBFB;
+	font-family: "Times Nesw Roman", Times, serif;
+}	
+
+.background {
+
+	height:1000px;
+	margin-left: 5px;
+	margin-right: 10px;
+	margin-top: 20px;
+	padding-top: 10px;
+	width: 960px;
+	background-color: #FBE691;
+	border-style: solid;
+	border-color: black;
+}
+
+.leftbox {
+
+	background-color: #153F43;
+	border-style: solid;
+	border-color: black;
+	margin-left: 10px;
+	height: 500px;
+	width: 300px;
+
+
+}
+.bottombox {
+	background-color: #38B0AD;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 962px;
+	height: 75px;
+	border-style: solid;
+	border-style: red;
+	text-align: center;
+	text-orientation: justify;
+	vertical-align: middle;
+}
