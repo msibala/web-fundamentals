@@ -1,0 +1,78 @@
+* {
+	margin-left: 10px;
+	margin-right: 10px ;
+	padding: 0px ;
+}
+
+#wrapper {
+	height: 1000px ;
+	width: 1200px ;
+	padding-left: 10px ; 
+	padding-top: 10px;
+	background-color: #EEEEEE;
+	font-size: 12pt ;
+	text-decoration-color: red ; // why doesnt this work
+
+}
+
+#wrapper li {
+
+	display: inline-block ;
+
+
+}
+
+.vertical {
+
+vertical-align: top; ;
+
+	}
+
+.vertical2 {
+	vertical-align: top ;
+}	
+
+.vertical3 {
+	vertical-align: top ;
+}
+
+.vertical4 {
+vertical-align: top; ;
+
+}
+
+.vertical5 {
+	vertical-align: top ;
+}	
+
+.vertical6 {
+	vertical-align: top ;
+}
+
+.vertical7 { 
+	vertical-align: top;
+
+}	
+
+.a1 {  
+
+	background-color: #689BFF ;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	text-align: center ;
+	margin-left: 100px ;
+	
+
+}
+
+.a3 { 
+
+	background-color: #689BFF;
+	height: 50px ;
+	width: 50px;
+	/*display: inline-block ;*/
+	text-align: center ;
+
+
+ 
