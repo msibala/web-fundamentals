@@ -1,0 +1,47 @@
+* { 
+	margin-left: 45px;
+	padding: 0px;
+
+ }
+
+ #container {
+
+ 	height: 1000px;
+ 	width: 970px;
+ 	border: 2px dashed black;
+ }
+
+ #header {
+
+ 	background-color: #F7F7F7;
+ 	width: 950px;
+ 	height:100px;
+ 	margin-right: 70px;
+
+ }
+
+
+ #body {
+
+ 	background-color: #6F5964;
+ 	width: 950px;
+ 	height: 700px;
+ 	margin-right: 70px;
+ }
+
+ .body-halves {
+
+ 	height: 350px;
+ 	width: 950px;
+ 	border: 2px dashed white;
+ 	margin-right: 70px;
+ }
+
+ #footer {
+
+ 	background-color: #F7F7F7;
+ 	width: 950px;
+ 	height: 150px;
+ 	margin-right: 70px;
+
+ }
