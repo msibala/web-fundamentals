@@ -1,0 +1,7 @@
+*{
+	font-family: sans-serif;
+}
+input[type=text] {
+
+	display: block;
+}
